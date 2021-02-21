@@ -1,0 +1,2 @@
+# ShchchowAMD.github.io
+Blog.
